@@ -1,0 +1,91 @@
+ru:
+  chronic_duration:
+    dividers:
+      micro:
+        years:   "лт"
+        months:  "мс"
+        weeks:   "нд"
+        days:    "дн"
+        hours:   "чс"
+        minutes: "мн"
+        seconds: "ск"
+      short:
+        years:   "лет"
+        months:  "мес."
+        weeks:   "нед."
+        days:    "дн."
+        hours:   "час."
+        minutes: "мин."
+        seconds: "сек."
+      default:
+        years:
+          zero: ""
+          one:  " год"
+          few:  " года"
+          many: " лет"
+        months:
+          zero: ""
+          one:  " мес."
+          few:  " мес."
+          many: " мес."
+        weeks:
+          zero: ""
+          one:  " нед."
+          few:  " нед."
+          many: " нед."
+        days:
+          zero: ""
+          one:  " день"
+          few:  " дня"
+          many: " дней"
+        hours:
+          zero: ""
+          one:  " час"
+          few:  " часа"
+          many: " часов"
+        minutes:
+          zero: ""
+          one:  " мин."
+          few:  " мин."
+          many: " мин."
+        seconds:
+          zero: ""
+          one:  " сек."
+          few:  " сек."
+          many: " сек."
+      long:
+        years:
+          zero: ""
+          one:  " год"
+          few:  " года"
+          many: " лет"
+        months:
+          zero: ""
+          one:  " месяц"
+          few:  " месяца"
+          many: " месяцев"
+        weeks:
+          zero: ""
+          one:  " неделя"
+          few:  " недели"
+          many: " недель"
+        days:
+          zero: ""
+          one:  " день"
+          few:  " дня"
+          many: " дней"
+        hours:
+          zero: ""
+          one:  " час"
+          few:  " часа"
+          many: " часов"
+        minutes:
+          zero: ""
+          one:  " минута"
+          few:  " минуты"
+          many: " минут"
+        seconds:
+          zero: ""
+          one:  " секунда"
+          few:  " секунды"
+          many: " секунд"
