@@ -1,0 +1,63 @@
+sv:
+  chronic_duration:
+    dividers:
+      micro:
+        years:   "år"
+        months:  "må"
+        weeks:   "v"
+        days:    "d"
+        hours:   "t"
+        minutes: "m"
+        seconds: "s"
+      short:
+        years:   "år"
+        months:  "må"
+        weeks:   "v"
+        days:    "d"
+        hours:   "t"
+        minutes: "m"
+        seconds: "s"
+      default:
+        years:
+          one:   " år"
+          other: " år"
+        months:
+          one:   " mån."
+          other: " mån."
+        weeks:
+          one:   " veck."
+          other: " veck."
+        days:
+          one:   " dag."
+          other: " dag."
+        hours:
+          one:   " tim."
+          other: " tim."
+        minutes:
+          one:   " min."
+          other: " min."
+        seconds:
+          one:   " sek."
+          other: " sek."
+      long:
+        years:
+          one:   " år"
+          other: " år"
+        months:
+          one:   " månad"
+          other: " månader"
+        weeks:
+          one:   " vecka"
+          other: " veckor"
+        days:
+          one:   " dag"
+          other: " dagar"
+        hours:
+          one:   " timme"
+          other: " timmar"
+        minutes:
+          one:   " minut"
+          other: " minuter"
+        seconds:
+          one:   " sekund"
+          other: " sekunder"
